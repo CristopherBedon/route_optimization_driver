@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "324572911970",
+    "project_id": "uber-clone-kotlin-d818a",
+    "storage_bucket": "uber-clone-kotlin-d818a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324572911970:android:2fb153e3de59d84c59743b",
+        "android_client_info": {
+          "package_name": "com.aproc.uberclonedriverkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCVDZ0vRaU-4HD1jItC741BH6UC4Vm-FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324572911970:android:10c825925409b9bf59743b",
+        "android_client_info": {
+          "package_name": "com.aproc.uberclonekotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCVDZ0vRaU-4HD1jItC741BH6UC4Vm-FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

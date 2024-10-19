@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UberCloneDriverKotlin" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <item name="colorSecondary">@color/black</item>
+        <item name="colorSecondaryVariant">@color/green</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!--Status Bar Color-->
+        <item name="android:statusBarColor" tools:targetApi="1">?attr/colorPrimaryVariant</item>
+        <item name="colorControlNormal">@color/white</item>
+        <item name="colorControlActivated">@color/white</item>
+        <item name="colorControlHighlight">@color/white</item>
+        <item name="android:textColorHint">@color/white</item>
+    </style>
+
+    <style name="EditTextGrey" parent="TextAppearance.AppCompat">
+        <item name="colorControlNormal">@color/grey_dark</item>
+        <item name="colorControlActivated">@color/grey_dark</item>
+        <item name="colorControlHighlight">@color/grey_dark</item>
+        <item name="android:textColorHint">@color/grey_dark</item>
+        <item name="colorAccent">@color/grey_dark</item>
+        <item name="android:textColorPrimary">@color/grey_dark</item>
+        <item name="colorSecondary">@color/grey_dark</item>
+        <item name="colorOnPrimary">@color/grey_dark</item>
+    </style>
+
+    <style name="Theme.UberCloneDriverKotlin" parent="Base.Theme.UberCloneDriverKotlin" />
+</resources>
