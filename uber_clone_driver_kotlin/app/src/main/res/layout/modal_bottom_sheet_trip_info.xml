@@ -33,7 +33,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Recoger en"
+                    android:text="Punto de Inicio de Recorrido"
                     android:textSize="17sp"
                     android:textStyle="bold"
                     android:textColor="@color/black"/>
@@ -74,10 +74,10 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="LLevar a"
+                    android:text="Punto de Fin de Recorrido"
+                    android:textColor="@color/black"
                     android:textSize="17sp"
-                    android:textStyle="bold"
-                    android:textColor="@color/black"/>
+                    android:textStyle="bold" />
 
                 <TextView
                     android:id="@+id/textViewDestination"
@@ -129,7 +129,7 @@
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Cliente"
+                    android:text="Supervisor"
                     android:textSize="17sp"
                     android:textStyle="bold"
                     android:textColor="@color/black"/>
