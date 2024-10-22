@@ -24,7 +24,7 @@ class HistoriesActivity : AppCompatActivity() {
         binding.recyclerViewHistories.layoutManager = linearLayoutManager
 
         setSupportActionBar(binding.toolbar)
-        supportActionBar?.title = "Historial de viajes"
+        supportActionBar?.title = "Historial de Rutas"
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
         binding.toolbar.setTitleTextColor(Color.WHITE)
 
